@@ -114,7 +114,7 @@ a {
 /* header */
 
 .site-header.inicio {
-  background-image: url(../recursos/imagenes/header.jpg);
+  background-image: url(../recursos/img/header.jpg);
   background-position: center center;
   height: 100vh;
   min-height: 60rem;
@@ -292,7 +292,7 @@ a {
 /*contacto principal */
 
 .imagen-contacto {
-  background-image: url(../recursos/imagenes/encuentra.jpg);
+  background-image: url(../recursos/img/encuentra.jpg);
   background-position: center center;
   background-size: cover;
   height: 40rem;
@@ -398,7 +398,7 @@ a {
 
   .testimonial blockquote::before {
     content: "";
-    background-image: url(../recursos/imagenes/comilla.svg);
+    background-image: url(../recursos/img/comilla.svg);
     width: 4rem;
     height: 4rem;
     display: block;
